@@ -1,1 +1,1 @@
-# 2019-USACO-Bronze
+# USACO-Bronze
